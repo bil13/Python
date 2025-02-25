@@ -1,0 +1,1 @@
+highschool = ["Bilal", "Victor", "Jesse", ""]
